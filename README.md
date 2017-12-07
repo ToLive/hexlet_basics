@@ -1,1 +1,1 @@
-"\nAnd Hello Github!" 
+"New text"  
